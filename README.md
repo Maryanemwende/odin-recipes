@@ -1,0 +1,1 @@
+In this project I am practising the HTML concepts I have learnt so far in the Odin Project. I will be creating Recipes to demonstrate my skills in HTML elements, lists links and images. 
